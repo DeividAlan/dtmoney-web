@@ -23,6 +23,30 @@
       "category": "Despesa",
       "price": 1000,
       "createdAt": "2023-08-03T10:24:44.505Z"
+    },
+    {
+      "id": 4,
+      "description": "Compras",
+      "type": "outcome",
+      "category": "Despesa",
+      "price": 300,
+      "createdAt": "2023-08-04T10:24:44.505Z"
+    },
+    {
+      "id": 5,
+      "description": "Internet",
+      "type": "outcome",
+      "category": "Despesa",
+      "price": 150,
+      "createdAt": "2023-08-05T10:24:44.505Z"
+    },
+    {
+      "description": "Jantar",
+      "price": 50,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-05T15:29:46.948Z",
+      "id": 6
     }
   ]
 }
